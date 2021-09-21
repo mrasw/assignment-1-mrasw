@@ -4,9 +4,9 @@
 ----
 ## Front
 ![Jacket1](img/front.jpeg)
-## Left
+## Right
 ![Jacket2](img/left.jpeg)
-## right
+## Left
 ![Jacket3](img/right.jpeg)
 ## Back
 ![Jacket4](img/back.jpeg)
